@@ -1,4 +1,10 @@
 .wrapper {
     margin: 0;
     padding: 0;
+    width: 110px;
+    background-color: #a5a5a5;
+}
+
+.expanded {
+    width: 340px;
 }

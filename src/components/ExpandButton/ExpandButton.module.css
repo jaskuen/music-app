@@ -1,0 +1,12 @@
+.wrapper {
+    margin: 0;
+    padding: 0;
+    width: fit-content;
+}
+
+.expanded {
+    width: 265px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
